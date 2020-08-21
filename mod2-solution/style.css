@@ -103,6 +103,7 @@ background-color: gold;
 @media (max-width:767px){
   .column{
     margin-bottom:30px;
+    width:100%;
   }
 
 }
